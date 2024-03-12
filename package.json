@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@jest/fake-timers": "^29.7.0"
+  }
+}
